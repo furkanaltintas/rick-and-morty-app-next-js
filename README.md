@@ -1,4 +1,4 @@
-# 🛸 Rick and Morty .Next.js
+# 🛸 Rick and Morty Next.js
 
 <hr>
 
